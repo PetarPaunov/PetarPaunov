@@ -7,7 +7,7 @@ I am enthusiastic problem solver, highly motivated to develop and progress. Thor
 .NET / C# / ENTITY FRAMEWORK CORE / JS / MSSQL / 
 
 - 🔭 I’m currently working on Web project 
-- 🌱 I’m currently learning HTML & CSS / ReactJS 
+- 🌱 I’m currently learning Algorithms with C#
 - 💬 Ask me about Everything 😄 
 
 ### Contact me on
